@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+__import__("0-add")
 if __name__ == "__main__":
     from add_0 import
     a = 1
